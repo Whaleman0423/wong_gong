@@ -1,0 +1,10 @@
+click
+colorama
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+Flask
+Flask-Cors
+
+gunicorn
